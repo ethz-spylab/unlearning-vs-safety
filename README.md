@@ -1,5 +1,5 @@
 # An Adversarial Perspective on Machine Unlearning for AI Safety
-This repository provides an original implementation of paper "An Adversarial Perspective on Machine Unlearning for AI Safety"
+This repository provides an original implementation of paper [An Adversarial Perspective on Machine Unlearning for AI Safety](https://arxiv.org/abs/2409.18025) by Jakub Łucki, Boyi Wei, Yangsibo Huang, Peter Henderson, Florian Tramèr, and Javier Rando.
 
 ## Setup
 There are several global variables and paths that we use throughout the project defined in `src\util\globals.py`. To adapt the code for your needs provide appropriate information there.
